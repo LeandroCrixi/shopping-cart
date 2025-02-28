@@ -20,7 +20,7 @@
     {
         "id": 4,
         "name": "Car",
-        "price": 1099,
+        "price": 10999,
         "imgUrl": "/imgs/car.jpg"
     }
 ]
